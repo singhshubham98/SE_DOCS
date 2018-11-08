@@ -8,3 +8,4 @@ Software Engineering Documents
 6. Gantt Chart
 7. Cost Estimation
 8. Project Plan
+9. Quality Assurance plan
