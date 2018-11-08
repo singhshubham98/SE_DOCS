@@ -14,6 +14,5 @@ Software Engineering Documents
 12. Cost Estimation
 13. SRS document
 14.Feasibility Report
-15. CMP
-16.System Test Report
-
+15.CMP
+16. SYSTEM PLAN REPORT
