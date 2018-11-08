@@ -9,3 +9,6 @@ Software Engineering Documents
 7. Cost Estimation
 8. Project Plan
 9. Quality Assurance plan
+10. Leasson Learned
+11. Proposal
+12. Cost Estimation
