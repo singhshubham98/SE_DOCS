@@ -6,3 +6,4 @@ Software Engineering Documents
 4. System Test Plan
 5. Deployment Document
 6. Gantt Chart
+7. Cost Estimation
