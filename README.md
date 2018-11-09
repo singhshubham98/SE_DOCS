@@ -35,3 +35,5 @@ Software Engineering Documents
 17. [Coding_Standard](https://github.com/Pooja123Gurjar/SE_DOCS/blob/master/Coding_Standard.pdf)
 
 18. [Survey Analysis](https://github.com/Pooja123Gurjar/SE_DOCS/blob/master/Survey_Analysis.pdf)
+
+19. [Minutes of Meeting](https://github.com/Pooja123Gurjar/SE_DOCS/blob/master/Minutes_of_Meeting.pdf)
